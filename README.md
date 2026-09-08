@@ -3,7 +3,7 @@
   # Merhaba, Ben Osman Erdoğan 👋
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Engineer+%F0%9F%8E%93;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%9A%80;TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Flutter+%E2%80%A2+Dart+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Frenen+ve+%C3%9Creten+Bir+M%C3%BChendis+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Computer+Engineer+%F0%9F%8E%93;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%9A%80;TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Flutter+%E2%80%A2+Dart+%E2%9C%A8;S%C3%BCrekli+%C3%96%C4%9Frenen+ve+%C3%9Creten+Bir+M%C3%BChendis+%F0%9F%92%BB" />
   </a>
 
   <br/><br/>
