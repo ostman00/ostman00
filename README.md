@@ -18,8 +18,8 @@
   <a href="https://ostman00.github.io">
     <img src="https://img.shields.io/badge/Portfolio-ostman00.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/osman-erdo%C4%9Fan-b9748824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Osman_Erdoğan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
