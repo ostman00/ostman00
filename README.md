@@ -71,12 +71,12 @@ Konum    : Türkiye
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ostman00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="ostman00 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostman00&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ostman00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="ostman00 GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ostman00&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ostman00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ostman00&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
